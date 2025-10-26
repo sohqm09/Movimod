@@ -71,8 +71,5 @@ This method runs both the backend and frontend on your local machine.
    - **Important:** Ensure the file `frontend/src/config.js` is pointing to the local backend URL: `http://127.0.0.1:8000`.
    - Start the frontend server: `npm run dev`
 
----
-##  submissions
 
-* **Video Demo URL:** https://drive.google.com/file/d/1_9z0guZTbqqxFZ8Ko-ukbLAtUXEbJJZo/view?usp=drivesdk
-* **Colab Notebook File:** The code for the cloud-powered backend is located in `/backend_colab/MoodToMovie_Backend.ipynb`.
+
